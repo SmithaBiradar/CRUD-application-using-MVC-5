@@ -2,7 +2,7 @@
 CRUD operations using MVC 5 with Razor views
 A simple application that uses Entity Framework SQL Server Express LocalDB to store and display data. The application must contain basic CRUD operations
 
-The application is a website for a fictional company XYZ Pty Ltd for storing employee details. It must include the following functionality/screens;
+The application is a website for a fictional company XYZ Pty Ltd for storing employee details. It includes the following functionality/screens;
 
 · Adding new employees
 
